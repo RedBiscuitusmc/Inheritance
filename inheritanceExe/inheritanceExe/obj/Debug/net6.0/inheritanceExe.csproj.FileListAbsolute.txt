@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\bin\Debug\net6.0\inheritanceExe.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\bin\Debug\net6.0\inheritanceExe.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\bin\Debug\net6.0\inheritanceExe.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\bin\Debug\net6.0\inheritanceExe.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\bin\Debug\net6.0\inheritanceExe.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\refint\inheritanceExe.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\inheritanceExe.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Inheritance\inheritanceExe\inheritanceExe\obj\Debug\net6.0\ref\inheritanceExe.dll
